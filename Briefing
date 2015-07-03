@@ -2,7 +2,9 @@ PANASONIC
 HOTSITE OLIMPÍADAS 
 
 1. Objetivo do Projeto 
-O hotsite terá como principal objetivo suportar e estender todas as experiências propostas pelos eventos e pelos conteúdos trabalhados nas redes sociais. Nosso intuito é tornar óbvia a associação entre os Jogos Olímpicos e o patrocínio da Panasonic e apresentar o portfólio de produtos, levando o público para os canais de venda. 
+O hotsite terá como principal objetivo suportar e estender todas as experiências propostas pelos eventos e pelos conteúdos 
+trabalhados nas redes sociais. Nosso intuito é tornar óbvia a associação entre os Jogos Olímpicos e o patrocínio da Panasonic 
+e apresentar o portfólio de produtos, levando o público para os canais de venda. 
 
 2. Premissas e restrições 
 Durante o planejamento e execução do projeto devem-se levar em conta as seguintes restrições: 
@@ -14,7 +16,6 @@ Firefox (Mac e PC), Chrome (Mac e PC)
 O desenvolvimento dele é obrigatoriamente em .Net 
 O site deverá ser responsivo 
 
-
 3. Entregáveis Previstos 
 Criação da Interface e layouts para o hotsite; 
 Desenvolvimento hotsite para navegadores registrados acima; 
@@ -22,9 +23,13 @@ Elaboração e atualização do conteúdo para o hotsite.
 
 4. Descrição do Projeto 
 4.1 – Detalhamento de Escopo 
-O hotsite tem como conceito principal “compartilhar a paixão pelos esportes” e com isso foi definido como estratégia desse canal: contar e escrever a história dos Jogos Olímpicos por meio de um editorial próprio, usando sempre que possível os atletas patrocinados pela Panasonic. 
-Para alcançar o objetivo proposto o hotsite será dividido nas seguintes áreas (obs.: nomenclaturas das seções serão definidas posteriormente): 
-Sharing the events -vídeos e imagens de todos os eventos. Focaremos na reação das pessoas e na presença dos atletas patrocinados. 
+O hotsite tem como conceito principal “compartilhar a paixão pelos esportes” e com isso foi definido como estratégia desse 
+canal: contar e escrever a história dos Jogos Olímpicos por meio de um editorial próprio, usando sempre que possível os 
+atletas patrocinados pela Panasonic. 
+Para alcançar o objetivo proposto o hotsite será dividido nas seguintes áreas (obs.: nomenclaturas das seções serão definidas 
+posteriormente): 
+Sharing the events -vídeos e imagens de todos os eventos. Focaremos na reação das pessoas e na presença dos atletas 
+patrocinados. 
 Será uma section dentro do site onde mostraremos fotos e/ou vídeos com a transmissão dos eventos 
 patrocinados pela Panasonic. 
 Com isso, para esta section, deverá ser contemplado no admin: 
@@ -62,12 +67,15 @@ que de alguma forma interagiram utilizando produtos da marca e listaremos essas 
 Mostrariamos uma timeline das Olimpiadas (Exemplo: http://panasonic.net/olympic/history/ ) mostrando as 
 datas das olimpiadas e essas historias. 
 
-Esta section será composta de: -widget na home -pagina interna com a lista dos eventos -pagina de cada evento -*pode ter mais tela de detalhe da acao dentro do evento 
+Esta section será composta de: -widget na home -pagina interna com a lista dos eventos -pagina de cada evento -*pode ter mais 
+tela de detalhe da acao dentro do evento 
 
-Sharing the News / feed de notícias -área de notícias com um conteúdo mais aprofundado, baseado no que está sendo publicado nas redes sociais de Panasonic. 
+Sharing the News / feed de notícias -área de notícias com um conteúdo mais aprofundado, baseado no que está sendo publicado 
+nas redes sociais de Panasonic. 
 Neste item, teremos duas coisas em uma: 
 -Publicação: Nessa parte o admin poderá usar o espaço para publicar matérias relacionadas ao assunto, como se fosse um blog 
--Rastreamento de Conteúdo Tendo uma hashtag do projeto, colocaríamos dentro desse feed, além das notícias publicadas, as notícias publicadas nas redes sociais da Panasonic com a #sharingnews (por exemplo). 
+-Rastreamento de Conteúdo Tendo uma hashtag do projeto, colocaríamos dentro desse feed, além das notícias publicadas, as 
+notícias publicadas nas redes sociais da Panasonic com a #sharingnews (por exemplo). 
 Com isso, teremos um feed de notícias na home que, ao ser clicado, entra na tela de detalhe daquela 
 notícia e se for um conteúdo rastreado, mandaremos o usuário para o link em questão. 
 
@@ -125,20 +133,26 @@ mudanças organizacionais.
 
 WBCTech
 Fornecer os profissionais aptos a desenvolver as atividades previstas no escopo desta proposta; 
-Organizar o projeto, definir atividades, alocar recursos próprios ou de terceiros para execução do projeto, bem como definir e acompanhar prazos; 
+Organizar o projeto, definir atividades, alocar recursos próprios ou de terceiros para execução do projeto, bem como definir 
+e acompanhar prazos; 
 Avaliar e propor as definições técnicas/funcionais do projeto, apresentando soluções alternativas quando necessário. 
 
 6. Contratação de serviços adicionais 
-A necessidade de qualquer serviço ou atividade não contemplada nesta proposta será negociada em separado, resultando em um novo orçamento que, para execução, deve ter prévia e expressa autorização do Cliente. 
-Durante o projeto das Olimpíadas é possível desenvolvimento de outras páginas específicas para determinada ações especiais (a serem executadas durante Fase 1 e 2 do projeto), porém a serão definidas e trabalhadas separadamente desse documento inicial de escopo e do orçamento fechado para 
+A necessidade de qualquer serviço ou atividade não contemplada nesta proposta será negociada em separado, resultando em um 
+novo orçamento que, para execução, deve ter prévia e expressa autorização do Cliente. 
+Durante o projeto das Olimpíadas é possível desenvolvimento de outras páginas específicas para determinada ações 
+especiais (a serem executadas durante Fase 1 e 2 do projeto), porém a serão definidas e trabalhadas separadamente desse 
+documento inicial de escopo e do orçamento fechado para 
 o hotsite. 
 
 7. Investimento total do projeto 
 Aguardando aprovação do escopo atual para definição e envio do novo orçamento. 
 
 8. Duração total do projeto 
-Teremos uma definição de duração do projeto na elaboração do cronograma, após o fechamento final desse escopo e aprovação de key visual geral do projeto. 
+Teremos uma definição de duração do projeto na elaboração do cronograma, após o fechamento final desse escopo e aprovação 
+de key visual geral do projeto. 
 Necessidade de estar com o hotsite no ar, antes do dia 01 de agosto de 2015. 
 
 9. Confidencialidade 
-As partes concordam em tratar e manter sob sigilo todas as informações compartilhadas em decorrência da execução dos serviços. 
+As partes concordam em tratar e manter sob sigilo todas as informações compartilhadas em decorrência da execução dos 
+serviços. 
